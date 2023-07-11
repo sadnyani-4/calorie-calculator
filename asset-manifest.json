@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calorie-calculator/static/css/main.f3cc4ecd.css",
+    "main.js": "/calorie-calculator/static/js/main.a6061100.js",
+    "static/media/logo.png": "/calorie-calculator/static/media/logo.0ee546a2afcf0c5a9720.png",
+    "index.html": "/calorie-calculator/index.html",
+    "main.f3cc4ecd.css.map": "/calorie-calculator/static/css/main.f3cc4ecd.css.map",
+    "main.a6061100.js.map": "/calorie-calculator/static/js/main.a6061100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3cc4ecd.css",
+    "static/js/main.a6061100.js"
+  ]
+}
